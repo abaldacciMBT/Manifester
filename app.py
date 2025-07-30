@@ -1,4 +1,3 @@
-All Rights Reserved. This code may not be copied, distributed, or used for any purpose without explicit written permission.
 
 import streamlit as st
 import pandas as pd
